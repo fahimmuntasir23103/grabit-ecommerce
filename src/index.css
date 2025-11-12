@@ -1,0 +1,13 @@
+@import "tailwindcss";
+/* @plugin "daisyui"; */
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+  --font-manrope: "Manrope", sans-serif;
+
+  --color-primary: #5caf90;
+  --color-secondary: #4b5966;
+  --color-accent: #777777;
+  --color-neutral: #e5e7eb;
+  --color-semantic: #999999;
+}

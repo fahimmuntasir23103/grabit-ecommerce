@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "position": "Team Leader",
+    "image":"https://maraviyainfotech.com/wrapbootstrap/grabit-html/grabit-html/assets/img/user/1.jpg", 
+    "email": "sarah.chen@company.com",
+    "department": "Operations"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "position": "Co-Leader",
+    "image": "https://maraviyainfotech.com/wrapbootstrap/grabit-html/grabit-html/assets/img/user/2.jpg",
+    "email": "marcus.johnson@company.com",
+    "department": "Strategy"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "position": "Manager",
+    "image": "https://maraviyainfotech.com/wrapbootstrap/grabit-html/grabit-html/assets/img/user/3.jpg",
+    "email": "emily.rodriguez@company.com",
+    "department": "Development"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "position": "Senior Manager",
+    "image": "https://maraviyainfotech.com/wrapbootstrap/grabit-html/grabit-html/assets/img/user/4.jpg",
+    "email": "david.kim@company.com",
+    "department": "Marketing"
+  },
+  {
+    "id": 5,
+    "name": "Priya Patel",
+    "position": "Project Manager",
+    "image": "https://maraviyainfotech.com/wrapbootstrap/grabit-html/grabit-html/assets/img/user/5.jpg",
+    "email": "priya.patel@company.com",
+    "department": "Design"
+  }
+]
